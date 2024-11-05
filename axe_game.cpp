@@ -1,8 +1,8 @@
 #include "raylib.h"
 int main(){
     //window Dimensions
-    int width{800};
-    float height{450};
+    int width{1000};
+    float height{500};
 
     InitWindow( width, height, "Raylib Window");
     
